@@ -1,5 +1,5 @@
 # NFA_to_DFA_Project
-Ali Woodward
+This individual Algorithm Analysis coursework project takes in a nondeterministic finite automaton (NFA) and accuratley converts it to a deterministic finite automaton (NFA). 
 
 main.java
 makeNFA.java
