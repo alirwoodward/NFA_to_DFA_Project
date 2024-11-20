@@ -18,7 +18,7 @@ Please make sure that everything is seperated by TABS as that is how the file re
 
 main.java:
 Main function to run the project
-
+ 
 makeNFA.java:
 Does all of the file reading and processing to create the NFA given by the input file
 
